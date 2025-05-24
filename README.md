@@ -19,11 +19,11 @@ This repository contains research materials related to my M.Sc. thesis:
 
 This repository contains several subdirectories, each housing negotiation agents created using different mathematical modeling techniques. Below is an overview of their contents:  
 
-### **1️⃣ Skew-Normal Distribution** (`Skew_normal_Distribution/`)  
+### **1️⃣ [`Skew-Normal Distribution`]** (./Skew_normal_Distribution)  
 🔹 Contains agents based on the **Skew-Normal Distribution Function**.  
 🔹 Refer to **Section 4.1.1** of *Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison* for methodology.  
 
-### **2️⃣ Normal Distribution** (`Normal_Distribution/`)  
+### **2️⃣ ['Normal Distribution']** (./Normal_Distribution)  
 🔹 Contains agents based on the **Gaussian Function**.  
 🔹 Refer to **Section 4.1.2** of *Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison* for methodology.  
 

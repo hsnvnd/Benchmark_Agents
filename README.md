@@ -28,11 +28,11 @@ This repository contains several subdirectories, each housing negotiation agents
 🔹 Refer to **Section 4.1.2** of *Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison* for methodology.  
 
 
-### **3️⃣ General Triangular Function**  
+### 3️⃣ [General Triangular Function](Tri_1_90/)  
 These folders contain agents created using the **General Triangular Function**:  
-- `Tri_1_90/`  
-- `Tri_20_20/`  
-- `Tri_70_30/`  
+- [Tri_1_90](Tri_1_90/)  
+- [Tri_20_20](Tri_20_20/)  
+- [Tri_70_30](Tri_70_30/)  
 
 🔹 Refer to **Section 4.1.3** of *Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison* for methodology.  
 

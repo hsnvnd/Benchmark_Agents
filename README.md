@@ -20,16 +20,16 @@ This repository contains research materials related to my M.Sc. thesis:
 This repository contains several subdirectories, each housing negotiation agents created using different mathematical modeling techniques. Below is an overview of their contents:  
 
 ### 1️⃣ [Skew-Normal Distribution](Skew_normal_Distribution/)  
-🔹 Contains agents based on the **Skew-Normal Distribution Function**.  
+🔹 Contains agents based on the **Skew-Normal Distribution** utility function.  
 🔹 Refer to **Section 4.1.1** of *[Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison](<https://www.mdpi.com/2078-2489/15/8/508>)* for more info.  
 
 ### 2️⃣ [Normal Distribution](Normal_Distribution/)  
-🔹 Contains agents based on the **Gaussian Function**.  
+🔹 Contains agents based on the **Gaussian** utility function.  
 🔹 Refer to **Section 4.1.2** of *[Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison](<https://www.mdpi.com/2078-2489/15/8/508>)* for more info.  
 
 
 ### 3️⃣ General Triangular Function
-These folders contain agents created using the **General Triangular Function**:  
+These folders contain agents created using the **General Triangular** utility function:  
 - [Tri_1_90](Tri_1_90/)  
 - [Tri_20_20](Tri_20_20/)  
 - [Tri_70_30](Tri_70_30/)  

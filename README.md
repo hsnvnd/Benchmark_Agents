@@ -29,7 +29,7 @@ This repository contains several subdirectories, each housing negotiation agents
 
 
 ### 3️⃣ General Triangular Function
-These folders contain agents created using the **General Triangular** utility function:  
+The following folders contain agents created using the **General Triangular** utility function:  
 - [Tri_1_90](Tri_1_90/)  
 - [Tri_20_20](Tri_20_20/)  
 - [Tri_70_30](Tri_70_30/)  

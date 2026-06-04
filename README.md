@@ -1,11 +1,11 @@
 # 📌 Repository Overview
 
 This repository contains research materials related to my M.Sc. thesis:  
-**"Effectively Modeling of Singly-Peaked Opponents in Automated Bilateral Negotiations, 2024"**  
+**"Effectively Modeling of Singly-Peaked Opponents in Automated Bilateral Negotiations"**  
 
 ## 📄 Included Papers  
 
-1. **Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison**  
+1. **Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison, 2024**  
    📎 [Read the Paper](<https://www.mdpi.com/2078-2489/15/8/508>)  
 
 2. **Automated Negotiation Agents in Modeling Gaussian Bidders, 2023**  

@@ -25,7 +25,7 @@ This repository contains several subdirectories, each housing negotiation agents
 
 ### 2️⃣ [Normal Distribution](Normal_Distribution/)  
 🔹 Contains agents based on the **Gaussian Function**.  
-🔹 Refer to **Section 4.1.2** of *Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison* for methodology.  
+🔹 Refer to **Section 4.1.2** of *[Automated Negotiation Agents in Modeling Single-Peaked Bidders: An Experimental Comparison](<https://www.mdpi.com/2078-2489/15/8/508>)* for methodology.  
 
 
 ### 3️⃣ General Triangular Function
